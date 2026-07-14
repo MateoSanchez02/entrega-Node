@@ -1,0 +1,1 @@
+Trabajo final de Node. Cuenta con un CRUD basico con un login y uso de tokens para operar. Llegue muy con lo justo a la fecha de entrega por cuestiones personales. Me hubiese gustado tener mas tiempo para armar algo mas grande (por ejemplo la posibilidad de filtrar por parametros) y mejorar la verificacion de datos, que siento hice una muy generica
